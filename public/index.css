@@ -1,0 +1,22 @@
+:root {
+  --bg-color: black;
+  --txt-color: white;
+  --movie-cards-count: 20;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: medium;
+  font-weight: 500;
+}
+
+body {
+  font-family: Proxima Nova, system-ui, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--txt-color);
+}

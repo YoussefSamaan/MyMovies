@@ -1,0 +1,14 @@
+.description {
+  grid-area: "Intro";
+  margin-top: 40vh;
+  margin-left: 2vw;
+  box-sizing: border-box;
+}
+
+.large {
+  font-size: xx-large;
+}
+
+.medium {
+  font-size: larger;
+}

@@ -1,0 +1,26 @@
+.automatic-carousel {
+  display: inline-block;
+  width: 22vh;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  margin-left: 0.4vh;  
+  margin-right: 0.4vh;
+}
+
+
+.bottom-fadeaway {
+  position: absolute;
+  top: 0;
+  height: 40px;
+  width: 100%;
+  background: linear-gradient(to bottom, var(--bg-color) 0%, transparent 100%);
+}
+
+.top-fadeaway {
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+  background: linear-gradient(to top, var(--bg-color) 0%, transparent 100%);
+}

@@ -1,0 +1,58 @@
+.movie-container {
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 33vh;
+  width: 22vh;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+@keyframes scroll-up {
+  0%{
+    transform: translateY(0vh);
+  }
+  100%{
+    transform: translateY(calc(-1*33vh*var(--movie-cards-count) - calc(var(--movie-cards-count)/3 * 2vh)));
+  }
+}
+
+@keyframes scroll-down {
+  0%{
+    transform: translateY(calc(-1*33vh*var(--movie-cards-count) - calc(var(--movie-cards-count)/3 * 2vh) ));
+  }
+  100%{
+    transform: translateY(0vh);
+  }
+}
+
+
+.movie-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.movie-info-box {
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+	background: rgba(60, 60, 60, 0.764);
+  align-content: center;
+}
+
+.movie-info {
+  color: rgb(255, 255, 255);
+  margin: auto;
+}
+
+.movie-container:hover .movie-info-box {
+  display: flex;
+}
+
+.text-center {
+  text-align: center;
+} 

@@ -1,0 +1,5 @@
+.front-page {
+  display: grid;
+  grid-template-areas: 'Intro Movies Movies';
+  gap: 10px;
+}
