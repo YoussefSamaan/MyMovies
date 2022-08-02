@@ -300,25 +300,25 @@ export const movies = [
     "image": "https://i.pinimg.com/564x/55/89/2b/55892b2aaad856c72f4a6e14649fe2b2.jpg",
     "finished": "EP: 13"
   },  {
-    "name": "",
-    "image": "",
-    "finished": ""
+    "name": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+    "image": "https://i.pinimg.com/564x/5c/23/4b/5c234bea8630d1b33b514d3c2446cdfe.jpg",
+    "finished": "EP: 12"
   },  {
-    "name": "",
-    "image": "",
-    "finished": ""
+    "name": "Knives Out",
+    "image": "https://i.pinimg.com/564x/2d/07/86/2d0786e111d966c559c99eabe396bd79.jpg",
+    "finished": "Movie"
   },  {
-    "name": "",
-    "image": "",
-    "finished": ""
+    "name": "Darwin's Game",
+    "image": "https://i.pinimg.com/564x/f4/4b/7f/f44b7f3b622f5b57b20473bce19f198d.jpg",
+    "finished": "EP: 11"
   },  {
-    "name": "",
-    "image": "",
-    "finished": ""
+    "name": "Assassins Pride",
+    "image": "https://i.pinimg.com/564x/5b/91/ba/5b91baba60b919e25017555bc1933c7d.jpg",
+    "finished": "EP: 12"
   },  {
-    "name": "",
-    "image": "",
-    "finished": ""
+    "name": "Isekai Cheat Magician",
+    "image": "https://i.pinimg.com/564x/60/4c/52/604c52d2a159e9dd5b6dd38712732d0b.jpg",
+    "finished": "EP: 12"
   }
 ]
 // ,  {
