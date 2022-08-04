@@ -22,7 +22,7 @@ function MovieCard(props) {
             {props.name}
           </h1>
           <p className="text-center">
-            seasons:
+            Finished:
           </p>
           <p className="text-center">
             {props.finished}
