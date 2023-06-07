@@ -10,7 +10,7 @@ export const movies = [
   },  {
     "name": "Is it wrong to pick up girls in a dungeon",
     "image": "https://u.livechart.me/anime/2045/poster_image/f6d5267d4bbafb8c1ca74de986fcea1c.jpg?style=small&format=webp",
-    "finished": "S: 1-3"
+    "finished": "S: 1-6"
   },  {
     "name": "Avatar the last airbender",
     "image": "https://www.gamersdecide.com/sites/default/files/top-10-avatar-the-last-airbender-characters-0.jpg",
@@ -150,7 +150,7 @@ export const movies = [
   },  {
     "name": "Rent a girlfriend",
     "image": "https://i.pinimg.com/564x/46/8e/b2/468eb2fc6782074d02c5bbac29d9e008.jpg",
-    "finished": "S: 1"
+    "finished": "S: 1-2"
   },  {
     "name": "Talentless Nana",
     "image": "https://i.pinimg.com/564x/c9/c7/9f/c9c79f26e3504fe656dcb13a4e87e165.jpg",
@@ -494,6 +494,150 @@ export const movies = [
   },  {
     "name": "Isekai Cheat Magician",
     "image": "https://i.pinimg.com/564x/9a/15/46/9a1546c5eece6e87564e64ebd43cabe1.jpg",
+    "finished": "EP: 12"
+  },  {
+    "name": "Seirei Gensouki: Spirit Chronicles",
+    "image": "https://i.pinimg.com/564x/f5/2f/84/f52f8431f1d8d525ffa8db2d8b5ee300.jpg",
+    "finished": "EP: 12"
+  },  {
+    "name": "The King's Avatar",
+    "image": "https://i.pinimg.com/564x/92/45/0e/92450e98c7feb56c1993216987d45ddd.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "Code Geass",
+    "image": "https://i.pinimg.com/564x/f6/aa/ca/f6aaca7760c6f0bfc38f100673516405.jpg",
+    "finished": "S:1-2 + Movies"
+  },  {
+    "name": "The Change-up",
+    "image": "https://i.pinimg.com/564x/42/6a/0e/426a0ebdf9736fe86d03e8a26ec622da.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "Game of Thrones",
+    "image": "https://i.pinimg.com/564x/5e/4f/84/5e4f84a963b8ce4e1500abefaa304373.jpg",
+    "finished": "All"
+  },  {
+    "name": "Dirty Grandpa",
+    "image": "https://i.pinimg.com/564x/ac/7a/6d/ac7a6d0512d7c3bd459db4eb2cc2adc1.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "Fatherhood",
+    "image": "https://i.pinimg.com/564x/81/5d/6e/815d6e0b2a89ca8b3249705d61898825.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "The King's Avatar",
+    "image": "https://i.pinimg.com/564x/19/f6/dc/19f6dc678ba87a3da77f23065594ab21.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "The Wolf of Wall Street",
+    "image": "https://i.pinimg.com/564x/7d/66/6b/7d666b35474616a2a9f296be15a98ba3.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "The Big Short",
+    "image": "https://i.pinimg.com/564x/75/d7/dc/75d7dc5b8c042118f00f84c76c3e54b0.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "Margin call",
+    "image": "https://i.pinimg.com/564x/ce/ee/ae/ceeeae61bf0c46a397524b7ba36f2e71.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "Squid Game",
+    "image": "https://i.pinimg.com/564x/8a/38/61/8a3861b87227defb87e1f537ca731dc1.jpg",
+    "finished": "S:1"
+  },  {
+    "name": "Lucifer",
+    "image": "https://i.pinimg.com/564x/07/12/52/071252ac4197a572ebbfab8a28b7886d.jpg",
+    "finished": ""
+  },  { 
+    "name": "The Good Doctor",
+    "image": "https://i.pinimg.com/564x/c8/91/25/c89125f90702f340857722bcef1c7eb7.jpg",
+    "finished": ""
+  },  {
+    "name": "Doctor Stranger",
+    "image": "https://i.pinimg.com/564x/2d/aa/dd/2daaddba9f1b85bcd1c617a6b495ef57.jpg",
+    "finished": "All"
+  },  {
+    "name": "The Dictator",
+    "image": "https://i.pinimg.com/564x/84/97/bc/8497bc236cdbc3ad3fa63d794fdea8ed.jpg",
+    "finished": "All"
+  },  {
+    "name": "Night School",
+    "image": "https://i.pinimg.com/564x/fb/ae/3a/fbae3a8db7fc9de1df49f1d347e62276.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "Crazy Rich Asians",
+    "image": "https://i.pinimg.com/564x/37/34/8f/37348fc3fb7fedaeca8f15033e3b9db6.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "Fist Fight",
+    "image": "https://i.pinimg.com/564x/02/b9/8d/02b98d183fbe4fe6aa7a3f76da991c19.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "JUNI TAISEN：ZODIAC WAR",
+    "image": "https://i.pinimg.com/564x/fe/62/8c/fe628c786ff8847617c6e4b1a799268b.jpg",
+    "finished": "EP: 12"
+  },  {
+    "name": "ASTRA LOST IN SPACE",
+    "image": "https://i.pinimg.com/564x/8f/6e/ef/8f6eefdd7e60bc8202df397c2c9fe6e4.jpg",
+    "finished": "EP: 12"
+  },  {
+    "name": "Danganronpa",
+    "image": "https://i.pinimg.com/564x/85/e2/ad/85e2ad3890d5fd6e0ab0f19ec1575081.jpg",
+    "finished": "S: 2"
+  },  {
+    "name": "Stawberry Smell",
+    "image": "https://i.pinimg.com/564x/03/65/b1/0365b120d70354e79b2bf2b86c5fe9c4.jpg",
+    "finished": "All"
+  },  {
+    "name": "Love For Rent",
+    "image": "https://i.pinimg.com/564x/fe/fd/3e/fefd3e402f1e6c301e4f876adfddd3b7.jpg",
+    "finished": "All"
+  },  {
+    "name": "Engage Kiss",
+    "image": "",
+    "finished": ""
+  },  {
+    "name": "Lycoris Recoil",
+    "image": "",
+    "finished": ""
+  },  {
+    "name": "Black Summoner",
+    "image": "",
+    "finished": "EP: 12"
+  },  {
+    "name": "Aoashi",
+    "image": "https://i.pinimg.com/564x/5d/89/73/5d8973c988244663c45c8530d97cc697.jpg",
+    "finished": "EP: 24"
+  },  {
+    "name": "Jujutsu kaisen 0",
+    "image": "https://i.pinimg.com/564x/4d/30/36/4d303692cebbf1421a3f6629c0d2c8eb.jpg",
+    "finished": "Movie"
+  },  {
+    "name": "Parallel World Pharmacy",
+    "image": "",
+    "finished": "EP: 12"
+  },  {
+    "name": "Cyberpunk",
+    "image": "",
+    "finished": "EP: 10"
+  },  {
+    "name": "Hitori no Shita - The Outcast",
+    "image": "",
+    "finished": "S4"
+  },  {
+    "name": "Black Adam",
+    "image": "",
+    "finished": "Movie"
+  },  {
+    "name": "Sword Art Online",
+    "image": "",
+    "finished": "S:1-3"
+  },  {
+    "name": "Blue Period",
+    "image": "",
+    "finished": "EP: 12"
+  },  {
+    "name": "Vermeil in Gold",
+    "image": "",
     "finished": "EP: 12"
   }
 ]
